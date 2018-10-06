@@ -5,8 +5,8 @@ I found this script years ago but I realized that maybe more people would need i
 
 After execute the script and restart the computer or reload your user sesion, when you do right click on the menu icon, you will see a new entry for the **old Control Panel**. This is how it looks:
 
-https://www.dropbox.com/s/u4s8937kectlxzj/Control%20Panel%20Entry.png?dl=0
+https://drive.google.com/open?id=1PJYPa5qlVSvJTC7Dlp7Yl8sJSoDrnc_P
 
 And if you click on that entry you will open the **old Control Panel**:
 
-https://www.dropbox.com/s/808pk83pn6axzk2/Control%20Panel.png?dl=0
+https://drive.google.com/open?id=1H4FzyabkAxfe4amEpiJQF5QxmQjV__nI
