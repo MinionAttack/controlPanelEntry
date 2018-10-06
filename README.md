@@ -1,5 +1,5 @@
 # controlPanelEntry
-This is a **BAT** script to add an entry for the **original Control Panel** on the **Windows menu when** you do a right click over the Windows menu logo.
+This is a **Batch** script to add an entry for the **original Control Panel** on the **Windows menu when** you do a right click over the Windows menu logo.
 
 I found this script years ago but I realized that maybe more people would need it, because for some task the old control panel it's more usefull than the new **Windows Configuration** menu. This script works with the lastest Windows update (**Windows 10 October Update**).
 
