@@ -5,10 +5,9 @@ I found this script years ago but I realized that maybe more people would need i
 
 After execute the script and restart the computer or reload your user session, when you do right click on the menu icon, you will see a new entry for the **old Control Panel**. This is how it looks:
 
-![New option](https://drive.google.com/open?id=1PJYPa5qlVSvJTC7Dlp7Yl8sJSoDrnc_P)
-Format: ![New option](url)
+
+![](https://drive.google.com/open?id=1PJYPa5qlVSvJTC7Dlp7Yl8sJSoDrnc_P)
 
 And if you click on that entry you will open the **old Control Panel**:
 
-![Old](https://drive.google.com/open?id=1H4FzyabkAxfe4amEpiJQF5QxmQjV__nI)
-Format: ![Old](url)
+![](https://drive.google.com/open?id=1H4FzyabkAxfe4amEpiJQF5QxmQjV__nI)
