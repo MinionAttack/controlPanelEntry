@@ -9,4 +9,4 @@ After execute the script and restart the computer or reload your user session, w
 
 And if you click on that entry you will open the **old Control Panel**:
 
-![Control panel](https://drive.google.com/open?id=1H4FzyabkAxfe4amEpiJQF5QxmQjV__nI/view?usp=sharing)
+![Control panel](https://drive.google.com/file/d/1H4FzyabkAxfe4amEpiJQF5QxmQjV__nI/view?usp=sharing)
